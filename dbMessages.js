@@ -8,4 +8,4 @@ const whatsappSchema = mongoose.Schema({
     
 })
 
-export default mongoose.model ('messageContent', whatsappSchema);
+export default mongoose.model ('messagecontents', whatsappSchema);
